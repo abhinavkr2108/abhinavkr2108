@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- https://codecrush.hashnode.dev/age-in-minutes-app-in-kotlin
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
