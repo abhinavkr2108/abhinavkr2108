@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 👯 I’m looking to collaborate on [Paintex](https://github.com/abhinavkr2108/AgeInMinutes)
+- 👯 I’m looking to collaborate on [Paintex](https://github.com/abhinavkr2108/Paintex)
 
 - 🤝 First App which initiated my Android Development Journey [Quiz App](https://github.com/abhinavkr2108/QuizApp)
 
