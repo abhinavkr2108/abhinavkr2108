@@ -1,4 +1,4 @@
-<img align="center" height="400" src="https://www.linkpicture.com/q/Github-Cover_2.png">
+<img align="center" width="1080" height="500" src="https://www.linkpicture.com/q/Github-Cover_2.png">
 
 <h1 align="center"><b>Hi, I'm Abhinav</b></h1>
 <h3 align="center">Android & MERN Stack Developer || Technical Content Writer</h3>
